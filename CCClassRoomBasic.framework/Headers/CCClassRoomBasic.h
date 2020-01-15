@@ -1,27 +1,3 @@
-//
-//  CCClassRoomBasic.h
-//  CCClassRoomBasic
-//
-//  Created by cc on 17/9/18.
-//  Copyright © 2017年 cc. All rights reserved.
-//
-
-#import <UIKit/UIKit.h>
-
-//! Project version number for CCClassRoomBasic.
-FOUNDATION_EXPORT double CCClassRoomBasicVersionNumber;
-
-//! Project version string for CCClassRoomBasic.
-FOUNDATION_EXPORT const unsigned char CCClassRoomBasicVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <CCClassRoomBasic/PublicHeader.h>
-
-#ifndef CCClassRoomBasic_h
-#define CCClassRoomBasic_h
-#import <CCClassRoomBasic/CCStreamerBasic.h>
-#import <CCClassRoomBasic/CCStreamView.h>
-#import <CCClassRoomBasic/CCEncodeConfig.h>
-#import <CCClassRoomBasic/CCStream.h>
-
-#endif
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:01423c5e5830a5d7c181ba0c2fe7f034a14c421a0250f6c81c84adc83fa817df
+size 761
